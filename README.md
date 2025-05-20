@@ -39,5 +39,5 @@ sudo ./scan_namp.py # Example
 
 
 👨‍💻 Author
-Built with ❤️ by YOUR NAME
-Feel free to connect or reach out if you're learning Red Teaming or internal recon techniques!
+Built with ❤️ by Jordi Capel.
+
