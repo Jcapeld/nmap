@@ -34,6 +34,7 @@ sudo apt install python3 -y
 Clone the repo and run the scripts with root privileges for full functionality:
 
 git clone https://github.com/Jcapeld/nmap
+
 sudo ./scan_namp.sh # Example
 sudo ./scan_namp.py # Example
 
